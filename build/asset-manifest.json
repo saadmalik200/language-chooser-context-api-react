@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/language-chooser-context-api-react/static/css/main.920936cb.css",
+    "main.js": "/language-chooser-context-api-react/static/js/main.81776347.js",
+    "index.html": "/language-chooser-context-api-react/index.html",
+    "main.920936cb.css.map": "/language-chooser-context-api-react/static/css/main.920936cb.css.map",
+    "main.81776347.js.map": "/language-chooser-context-api-react/static/js/main.81776347.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.920936cb.css",
+    "static/js/main.81776347.js"
+  ]
+}

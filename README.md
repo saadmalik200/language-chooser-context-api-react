@@ -1,20 +1,23 @@
-
-# :cartwheeling: Exercise 
-
+# :cartwheeling: Exercise
 
 ## :de::argentina::us::south_africa: Create a language chooser :iran::hungary::poland::syria:
 
 ---
+
+## Link
+
+- Live Site URL: [https://saadmalik200.github.io/language-chooser-context-api-react/](https://saadmalik200.github.io/language-chooser-context-api-react/)
+
 ### Task
 
 - Create a React App, with a dropdown-list, where the user can choose between different languages,
-e.g. (GER, ENG, your mother tongue...). Your WelcomeMessage component needs to show the message in the language, the user has choosen.
+  e.g. (GER, ENG, your mother tongue...). Your WelcomeMessage component needs to show the message in the language, the user has choosen.
 
   - GER: "Hallo Welt!"
   - ENG: "Hello World!"
 
 - if the user changes the language settings, the message should be updated accordingly
-Please solve the exercise by using `useContext`.
+  Please solve the exercise by using `useContext`.
 
 - style to your liking
 
@@ -23,6 +26,7 @@ Please solve the exercise by using `useContext`.
 **structure your app as follows:**
 
 - `App` has Header and Content as children
+
   - `Header`
   - `Content`
 
@@ -41,8 +45,3 @@ Please solve the exercise by using `useContext`.
 
 - Think about, how you would be able to solve the same exercise, by only using the useState hook?
 - Which difference are you noticing about `useState` and `useContext`?
-
-
-
-
-
